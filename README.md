@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelmathachan002
-- 👀 I’m interested in ...blockchain,corporate finance & tech
+- 👀 I’m interested in ...blockchain, finance & tech
 - 🌱 I’m currently learning ...btech @ktu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
