@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelmathachan002
-- 👀 I’m interested in ...blockchain, finance & tech
-- 🌱 I’m currently learning ...btech @ktu
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...blockchain,Devops,Linux and cloud
+- 🌱 I’m currently Working ...as an Analyst in AWS
+- 💞️ I’m looking to collaborate on ...Projects and learning resources related to Devops
 - 📫 How to reach me ...samuelarthunkal002@gmail.com
 
 <!---
